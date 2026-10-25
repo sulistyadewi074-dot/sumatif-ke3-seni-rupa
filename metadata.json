@@ -1,0 +1,8 @@
+{
+  "name": "sumatif ke-3 seni rupa",
+  "description": "Aplikasi Tes Sumatif Seni Rupa Kelas VI SD Negeri 3 Loloan Timur Materi Membuat Karya Seni Makrame Sederhana (Pengertian makrame, alat dan bahan, dan langkah-langkah membuat makrame) dengan 4 tahap tes, sinkronisasi Google Spreadsheet, unduh PDF naskah & hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
